@@ -1,0 +1,11 @@
+{
+  "OCL": {
+    "server": "https://api.openconceptlab.org",
+    "sourcePath": "/orgs/CIEL/sources/CIEL/",
+    "collectionPath": "/orgs/OpenMRS/collections/RA/",
+    "apiToken": "NEED TO SPECIFY IN local.json FILE IN THIS FOLDER"
+  },
+  "local": {
+    "conceptFile": "concepts.txt"
+  }
+}
